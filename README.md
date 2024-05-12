@@ -17,6 +17,7 @@ The Google Play Store, being one of the largest digital distribution service pla
 6 . Explore the relationship between two continuous variables in the dataset.
 
 #### 3. Credit Card Financial Analysis
+Thanks to credit cards and banks, we live in a world where we can enjoy experiences beyond our financial reach even before we are able to afford them. Credit card companies have amassed massive wealth from issuing credit cards, and so have banks who provide the financial liquidity that enables us to enjoy the experience. However, in order to limit delinquencies and reduce default rates on payments, companies need to level up on their game. The ability to review data from credit card usage by cardholders is an almighty formula for managing the debt crisis facing the industry. With that, banks will be able to better manage their liquidity and drastically reduce the prevalence of poor facilities by analyzing data pulled from cardholders’ payment history.  
 Project Objective :
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends,
 enabling stakeholders to monitor and analyze credit card operations effectively.
